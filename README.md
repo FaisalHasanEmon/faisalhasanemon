@@ -18,7 +18,7 @@
 
 ###
 
-<h4 align="left">🔹 Working on my thesis.<br>🔹 Working on my personal project Bhumibazar, a real estate platform.<br> 🔹Exploring new web technologies to improve my development skills.<br>🔹 Planning a trip with friends after my thesis.</h4>
+<h4 align="left">🔹 Working on my thesis.<br>🔹 Working on my personal project Bhumibazar, a real estate platform.<br> 🔹 Exploring new web technologies to improve my development skills.<br>🔹 Planning a trip with friends after my thesis.</h4>
 
 ###
 
